@@ -1,0 +1,7 @@
+C:\Users\SKU-81583\Desktop\Gits\Manejo-Excepciones\Manejo de Excepciones\bin\Debug\Manejo de Excepciones.exe.config
+C:\Users\SKU-81583\Desktop\Gits\Manejo-Excepciones\Manejo de Excepciones\bin\Debug\Manejo de Excepciones.exe
+C:\Users\SKU-81583\Desktop\Gits\Manejo-Excepciones\Manejo de Excepciones\bin\Debug\Manejo de Excepciones.pdb
+C:\Users\SKU-81583\Desktop\Gits\Manejo-Excepciones\Manejo de Excepciones\obj\Debug\Manejo de Excepciones.csproj.AssemblyReference.cache
+C:\Users\SKU-81583\Desktop\Gits\Manejo-Excepciones\Manejo de Excepciones\obj\Debug\Manejo de Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\SKU-81583\Desktop\Gits\Manejo-Excepciones\Manejo de Excepciones\obj\Debug\Manejo de Excepciones.exe
+C:\Users\SKU-81583\Desktop\Gits\Manejo-Excepciones\Manejo de Excepciones\obj\Debug\Manejo de Excepciones.pdb
