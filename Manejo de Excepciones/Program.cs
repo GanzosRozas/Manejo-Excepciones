@@ -16,24 +16,24 @@ namespace Manejo_de_Excepciones
             try
             {
                 numero = Int32.Parse(Console.ReadLine());
-                Console.WriteLine(numero * numero);
+                Console.WriteLine(Math.Pow(numero,2));
             }
             catch (FormatException )
             {
 
                 Console.WriteLine("El tipo de dato no es entero pruebe con un que no tenga punto decimal");
                 Console.WriteLine("Presione enter para salir");
-                Console.ReadKey();
+            
             }
             catch(OverflowException )
             {
-                Console.WriteLine("El numero es demasiado grande ");
+                Console.WriteLine("El numero capturado es demasiado grande ");
                 Console.WriteLine("Presione enter para salir");
-                Console.ReadKey();
+               
             }
+            Console.ReadKey();
 
 
-            
         }
     }
 }
